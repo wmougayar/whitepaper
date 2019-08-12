@@ -33,13 +33,13 @@ All members, whether providing services via a League, allocating capital, whethe
 
 In delivering security to members, we note the need for resilience and certain stability mechanisms in the capital pool must exist. Compliance can be achieved as a decentralized service performed by the Leagues on behalf of a clean capital pool. Such an arrangement present interesting game-theoretic challenges. We propose certain solutions below and in subsequent League specifications.
 
-## Current issues in capital deployment
+## An alternative in capital deployment
 
 ### Issues with legacy fund structures
 
-While many venture capital funds (VCs) are well-intentioned and do great work for their portfolio, there remain inherent structural limitations of the standard VC model:
+While many venture capital funds (VCs) are well-intentioned and do great work for their portfolio, there are some weaknesses in the standard VC model that can be addressed by the DAO:
 
-1. **Scaling value-add** Many investment funds start out being committed to "value-add", i.e., they deploy time and capital in assisting their portfolio projects alongside the initial capital invested in the project. Early-stage venture capital firms will help with recruiting, crypto-economic design, community management and other services. However, as a fund scales it is difficult to scale the value-add model along with AUM (assets under management) unless the fund commits to linearly scaling the team. 
+1. **Scaling value-add** Many investment funds start out being committed to "value-add", i.e., they deploy time and capital in assisting their portfolio projects alongside the initial capital invested in the project. Early-stage venture capital firms will help with recruiting, crypto-economic design, community management and other services. However, as a fund scales it is challenging to scale the value-add model along with AUM (assets under management) unless the fund commits to linearly scaling the team. 
 
 2. **Fair compensation for value created** Start-up economics are especially skewed to favour the founder(s) who were present at inception, even though subsequent employees may generate substantial value. Actual value creation vs. value capture is frequently skewed in favour of early capital contributors and founders. Changing this dynamic to make an organization more attractive for top-tier talent to enter post-inception could create a vortex for high-value contributors who can be confident that they will share in the value they create accordingly and desire to be treated like an owner. 
 
